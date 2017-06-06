@@ -5,3 +5,4 @@ $(document).ready(function(){
      Spymaster.setup("Pedia","beta");
  });
 </script>
+<!-- Thank you page on HTML Head --> 
