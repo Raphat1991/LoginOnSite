@@ -1,0 +1,7 @@
+<meta charset='utf-8'>
+<script src="http://tracking.welovelearning.asia/client-api/js/spymaster.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    Spymaster.setup("Welovelearning","beta");
+  });
+</script>
