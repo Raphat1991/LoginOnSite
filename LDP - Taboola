@@ -1,0 +1,5 @@
+<script type="text/javascript">
+    window._tfa = window._tfa || [];
+    _tfa.push({ notify: 'action',name: 'Register' });
+</script>
+<script src="//cdn.taboola.com/libtrc/topicaedumall-sc/tfa.js"></script>
